@@ -122,5 +122,5 @@ h1 {
 }
 
 .notification-container.show {
-  transform: translateX(-50px);
+  transform: translateY(-50px);
 }
